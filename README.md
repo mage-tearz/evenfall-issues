@@ -18,3 +18,6 @@ If you posted the issue, the chances are we can probably see it too. You don't n
 If we ask you to provide more information, do your best to provide it.
 
 This is not a suggestions page. Redirect yourself to the Discord forum.
+
+## Creating an Issue
+Go to the 'Issues' tab in the top row, and click New Issue. Note down all the required information, then post it.
